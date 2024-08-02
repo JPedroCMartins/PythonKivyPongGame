@@ -1,0 +1,2 @@
+Kivy==2.3.0
+Kivy_examples==2.3.0
